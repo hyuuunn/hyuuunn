@@ -5,6 +5,9 @@
  
 #### Python
 * [💻 Basic Python](https://github.com/hyuuunn/Python)
+
+#### Natural Language Processing
+* [💻 Natural Language Processing](https://github.com/hyuuunn/Natural-Language-Processing)
  
 #### Projects
 * [Brazilian E-Commerce](https://github.com/hyuuunn/Project/tree/main/1_project)
