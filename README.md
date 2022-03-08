@@ -6,13 +6,13 @@
 #### Python
 * [💻 Basic Python](https://github.com/hyuuunn/Python)
 
-#### Natural Language Processing
-* [💻 Natural Language Processing](https://github.com/hyuuunn/Natural-Language-Processing)
- 
 #### Projects
 * [Brazilian E-Commerce](https://github.com/hyuuunn/Project/tree/main/1_project)
 * [A model to predict the resell price of sneakers](https://github.com/hyuuunn/Project/tree/main/2_project)
 
+#### Natural Language Processing
+* [💻 Natural Language Processing](https://github.com/hyuuunn/Natural-Language-Processing)
+ 
 
 <a href="https://github.com/corazzon/finance-data-analysis"><img src="https://cdn.inflearn.com/public/courses/326383/cover/4c038b06-8afa-4ae8-b14a-5ed22cfabce0/326383-eng.png" width=242></a>
 <a href="http://bit.ly/inflearn-kaggle-survey-2020" style="float:left"><img src="https://cdn.inflearn.com/public/courses/326366/cover/972de19c-79c3-4f2f-a4d4-472f301127f9" width=242></a>
