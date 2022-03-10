@@ -1,14 +1,14 @@
 
-#### Projects
-* [Brazilian E-Commerce](https://github.com/hyuuunn/Project/tree/main/1_project)
-* [A model to predict the resell price of sneakers](https://github.com/hyuuunn/Project/tree/main/2_project)
-* [(APP) Mood Diary](https://github.com/hyuuunn/Project/tree/main/0_project)
-
 #### Machine Learning
 * [💻 Machine Learning](https://github.com/hyuuunn/AI)
 
 #### Natural Language Processing
 * [💻 Natural Language Processing](https://github.com/hyuuunn/Natural-Language-Processing)
+
+#### Projects
+* [Brazilian E-Commerce](https://github.com/hyuuunn/Project/tree/main/1_project)
+* [A model to predict the resell price of sneakers](https://github.com/hyuuunn/Project/tree/main/2_project)
+* [(APP) Mood Diary](https://github.com/hyuuunn/Project/tree/main/0_project)
  
 #### SQL
 * [💻 Basic SQL](https://github.com/hyuuunn/SQL)
