@@ -1,11 +1,4 @@
 
-
-#### SQL
-* [💻 Basic SQL](https://github.com/hyuuunn/SQL)
- 
-#### Python
-* [💻 Basic Python](https://github.com/hyuuunn/Python)
-
 #### Projects
 * [Brazilian E-Commerce](https://github.com/hyuuunn/Project/tree/main/1_project)
 * [A model to predict the resell price of sneakers](https://github.com/hyuuunn/Project/tree/main/2_project)
@@ -17,7 +10,11 @@
 #### Natural Language Processing
 * [💻 Natural Language Processing](https://github.com/hyuuunn/Natural-Language-Processing)
  
-
+#### SQL
+* [💻 Basic SQL](https://github.com/hyuuunn/SQL)
+ 
+#### Python
+* [💻 Basic Python](https://github.com/hyuuunn/Python)
 
 
 <!---
