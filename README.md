@@ -15,6 +15,7 @@
  
 #### Python
 * [💻 Basic Python](https://github.com/hyuuunn/Python)
+* [💻 Pandas](https://github.com/hyuuunn/Pandas)
 
 #### Statistics
 * [💻 Statistics for python](https://github.com/hyuuunn/Statistics)
