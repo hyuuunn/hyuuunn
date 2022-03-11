@@ -16,6 +16,8 @@
 #### Python
 * [💻 Basic Python](https://github.com/hyuuunn/Python)
 
+#### Statistics
+* [💻 Statistics for python](https://github.com/hyuuunn/Statistics)
 
 <!---
 hyuuunn/hyuuunn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
